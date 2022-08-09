@@ -1,0 +1,6 @@
+mode: "play-multitask-irl"
+load_model: True
+record_episode: 1
+eps_start: 0.02
+load_model_start_path: "multitask-irl"
+multiple_tasks: True

@@ -1,0 +1,4 @@
+mode: "multitask-forward"
+load_model: False
+multiple_tasks: True
+load_model_start_path: 'multitask-forward'

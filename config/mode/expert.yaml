@@ -1,0 +1,5 @@
+mode: "expert"
+env_num_tasks: 1
+load_model: False
+multiple_tasks: False
+load_model_start_path: "expert"

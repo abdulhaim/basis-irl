@@ -1,0 +1,8 @@
+mode: "irl"
+env_num_tasks: 1
+multiple_tasks: False
+load_model: True
+record_episode: 1
+eps_start: 0.02
+load_model_start_path: "multitask-forward" #change for multitask-irl
+irl_test_episodes: 10000

@@ -1,0 +1,8 @@
+mode: "play-expert"
+env_num_tasks: 1
+num_tasks: 10
+multiple_tasks: False
+load_model: True
+record_episode: 1
+eps_start: 0.02
+load_model_start_path: 'expert'

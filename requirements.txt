@@ -1,0 +1,8 @@
+torch==1.12.0
+numpy==1.21.6
+gym==0.25.0
+gym-minigrid==1.0.3
+wandb==0.12.21
+setuptools==63.2.0
+configparser==5.2.0
+highway-env

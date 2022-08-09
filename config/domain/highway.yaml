@@ -1,0 +1,17 @@
+# Highway Domain Parameters 
+domain: "highway"
+batch_size: 64
+target_update: 1000
+lr: 0.001
+initial_memory: 1000
+memory_size: 10000000 
+eps_decay: 20000
+n_episodes: 10000
+pretraining_tasks: 10 
+num_tasks: 10
+env_num_tasks: 10
+save_model_episode: 10
+update_every: 50
+irl_steps:  300
+n_actions: 5
+demonstrations: 300

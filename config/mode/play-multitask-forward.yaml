@@ -1,0 +1,7 @@
+mode: "play-multitask-forward"
+load_model: True
+record_episode: 1
+eps_start: 0.02
+load_model_start_path: 'multitask-forward'
+multiple_tasks: True
+traj_task_id: 0 # which task trajectories to save (must change to get all tasks)

@@ -1,0 +1,17 @@
+# FruitGrid Parameters 
+domain: "fruitgrid"
+batch_size: 256
+target_update: 1000
+lr: 0.001
+initial_memory: 2000
+memory_size: 20000000
+eps_decay: 20000
+n_episodes: 10000
+pretraining_tasks: 3 
+num_tasks: 3
+env_num_tasks: 3
+save_model_episode: 10
+update_every: 50
+irl_steps: 250
+n_actions: 5
+demonstrations: 300
